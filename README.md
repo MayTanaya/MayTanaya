@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! I'm Hasna May Tanaya 👋
 
 <!--
 **MayTanaya/MayTanaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Welcome to my GitHub profile! 🌱
+I’m an Informatics Engineering student who loves building software and web apps, exploring Data & AI, diving into Cloud Computing and DevOps, and keeping up with the latest tech trends
+
+---
