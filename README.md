@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ![learning](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamFyZnByZWZkYTVlcmxndHY2cHg2M2Z4NmdtZmJyNngyOGN6emM0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eHQ5BsgBIBIGI/giphy.gif)
 
-**Welcome to my GitHub profile! 🌱**
+### Welcome to my GitHub profile! 🌱
 
 I’m an Informatics Engineering student who loves building software and web apps, exploring Data & AI, diving into Cloud Computing and DevOps, and keeping up with the latest tech trends
 
-##### Skills
+#### Skills
 
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -36,9 +36,14 @@ I’m an Informatics Engineering student who loves building software and web app
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-##### Connect With Me
+#### Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasna-may-tanaya)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maytnayaa)
+
+#### My GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=MayTanaya&show_icons=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=MayTanaya&theme=tokyonight)
 
 ---
