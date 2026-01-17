@@ -38,7 +38,7 @@ I’m an Informatics Engineering student who loves building software and web app
 
 ##### Connect With Me
 
-![https://www.linkedin.com/in/hasna-may-tanaya](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![https://instagram.com/maytnayaa](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasna-may-tanaya)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maytnayaa)
 
 ---
