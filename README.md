@@ -45,7 +45,8 @@ I’m an Informatics Engineering student who loves building software and web app
 
 [![Streak](https://streak-stats.demolab.com?user=MayTanaya)](https://github.com/MayTanaya) -->
 
-<p align="center">Play With Me</p>
+
+#### Play With Me
 
 ###
 
