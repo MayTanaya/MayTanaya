@@ -43,7 +43,8 @@ I’m an Informatics Engineering student who loves building software and web app
 
 #### My GitHub Stats
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MayTanaya&show_icons=true)
+![Avatar](https://github.com/MayTanaya.png)
+
 [![Streak](https://streak-stats.demolab.com?user=MayTanaya)](https://github.com/MayTanaya)
 
 ---
