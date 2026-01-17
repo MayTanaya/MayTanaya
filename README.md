@@ -41,8 +41,19 @@ I’m an Informatics Engineering student who loves building software and web app
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasna-may-tanaya)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maytnayaa)
 
-#### My GitHub Stats
+<!-- #### My GitHub Stats
 
-[![Streak](https://streak-stats.demolab.com?user=MayTanaya)](https://github.com/MayTanaya)
+[![Streak](https://streak-stats.demolab.com?user=MayTanaya)](https://github.com/MayTanaya) -->
 
+<p align="center">Play With Me</p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MayTanaya/MayTanaya/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MayTanaya/MayTanaya/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MayTanaya/MayTanaya/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 ---
